@@ -4,10 +4,10 @@
 ---
 
 **About me**  
--  Second-year computer science student (Application Development track)  
+-  Third-year computer science student (Application Development track)  
 -  Passionate about **web development**, **software engineering**, and exploring new technologies  
 -  Currently working on [**Isola board game**](https://github.com/Maxime-dcps/Projet-Isola)  
--  Currently reading *"Artificial Intelligence: A Modern Approach"*  
+-  My most recent reading *"Artificial Intelligence: A Modern Approach"*  
 -  Driven by curiosity, I enjoy learning continuously and turning ideas into real-world projects  
 -  Interested in **ASP.NET**, **React**, and building full-stack applications  
 
